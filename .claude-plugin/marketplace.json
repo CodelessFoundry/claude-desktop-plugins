@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-desktop-plugins",
+  "description": "Personal plugin marketplace for Claude Desktop — custom skills, connectors, and tools by CodelessFoundry",
+  "owner": {
+    "name": "Scott",
+    "email": "scott@codelessfoundry.com"
+  },
+  "metadata": {
+    "description": "CodelessFoundry custom plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "open-brain",
+      "description": "Personal knowledge capture and retrieval via MCP with semantic search and governance guardrails",
+      "source": "./plugins/open-brain"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "open-brain",
+  "description": "Open Brain — personal knowledge capture and retrieval via MCP. Search, save, update, and manage thoughts with semantic search and governance guardrails.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Scott",
+    "email": "scott@codelessfoundry.com"
+  }
+}

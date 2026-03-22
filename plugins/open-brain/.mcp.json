@@ -1,0 +1,10 @@
+{
+  "open-brain": {
+    "type": "http",
+    "url": "https://zdjbcldmxlvfmylyjoyc.supabase.co/functions/v1/open-brain-mcp",
+    "headers": {
+      "Authorization": "Bearer ${OPEN_BRAIN_ANON_KEY}",
+      "x-brain-key": "${OPEN_BRAIN_MCP_KEY}"
+    }
+  }
+}
